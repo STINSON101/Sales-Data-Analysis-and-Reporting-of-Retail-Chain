@@ -42,5 +42,5 @@ example, time series analysis for sales trends, cohort analysis for customer beh
 <img width="315" alt="Screenshot 2023-08-06 122929" src="https://github.com/STINSON101/Sales-Data-Analysis-and-Reporting-of-Retail-Chain/assets/129893981/205ec5bb-70f2-4214-96a5-d72f6f88a4a7">
 
 ## Phase 4: Reporting
-This is the final stage of the analysis process here I Created summary tables showing sales by product, store, month, etc, reate visual reports (charts, graphs, etc) showing trends and patterns and Presented the reports to in [Excel dashboard](). 
+This is the final stage of the analysis process here I Created summary tables showing sales by product, store, month, etc, reate visual reports (charts, graphs, etc) showing trends and patterns and Presented the reports to in [Excel dashboard](https://github.com/STINSON101/Sales-Data-Analysis-and-Reporting-of-Retail-Chain/blob/main/Sales%20data%20analysis%20and%20reporting%20for%20a%20retail%20chain.xlsx). 
 
